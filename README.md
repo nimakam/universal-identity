@@ -2,7 +2,7 @@
 
 **The universal digital identity protocol for everyday use cases**
 
-We are a pre-seed stage non-profit standards organizations, focused on complementing the world wide web with a decentralized self-sovereign identity protocol layer, and enabling every day digital activities with the highest level of usability.
+We are a pre-seed stage non-profit open standards organizations, focused on complementing the world wide web with a decentralized self-sovereign identity protocol layer, and enabling every day digital activities with the highest level of usability.
 
 ## Topics
 
