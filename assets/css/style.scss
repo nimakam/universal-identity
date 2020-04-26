@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+
+  .site-logo {
+    width: 60px;
+    float: left;
+  }
+  
+  .site-title {
+    float: unset;
+    padding-left: 10px;
+  }
