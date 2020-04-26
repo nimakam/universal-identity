@@ -1,3 +1,8 @@
+---
+layout: page
+title: Terms of use
+permalink: /terms-of-use
+---
 # Terms of use
 
 Last updated: April 26, 2020

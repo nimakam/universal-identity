@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy policy
+permalink: /privacy-policy
+---
 # Privacy policy
 
 **We do not store any of your data. Period.**

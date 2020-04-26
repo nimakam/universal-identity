@@ -1,3 +1,8 @@
+---
+layout: page
+title: Use cases
+permalink: /use-cases
+---
 # 🤳 Use cases <!-- omit in toc -->
 
 - [👩 Consumer (market segment)](#%f0%9f%91%a9-consumer-market-segment)

@@ -4,7 +4,9 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <img class="site-logo" src="assets/images/universal-identity-logo-header.png" alt="Universal identity logo" href="{{ "/" | relative_url }}" />
+    <a class="image-link" href="{{ "/" | relative_url }}">
+      <img class="site-logo" src="assets/images/universal-identity-logo-header.png" alt="Universal identity logo"/>
+    </a>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if titles_size > 0 -%}
@@ -27,13 +29,13 @@
           {%- endfor -%}
         </div>
 
-        <a href="mailto:info@universalid.one">
+        <a class="image-link" href="mailto:info@universalid.one">
           <img class="site-action" src="assets/images/contact-us-header.png" alt="Contact us by email">
         </a>
-        <a href="https://github.com/nimakam/universal-identity">
+        <a class="image-link" href="https://github.com/nimakam/universal-identity">
           <img class="site-social-header" src="assets/images/github-40x40.png" alt="Universal Identity on GitHub">
         </a>
-        <a  href="https://medium.com/universal-identity">
+        <a class="image-link" href="https://medium.com/universal-identity">
           <img class="site-social-header" src="assets/images/medium-40x40.png" alt="Universal Identity on Medium">
         </a>      
 

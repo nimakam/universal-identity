@@ -1,3 +1,8 @@
+---
+layout: page
+title: Vision
+permalink: /vision
+---
 # 👁 Vision
 
 **The ubiquitious digital identity protocol for growing number of everyday use cases**

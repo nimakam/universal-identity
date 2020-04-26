@@ -1,3 +1,8 @@
+---
+layout: page
+title: Concepts
+permalink: /concepts
+---
 # 🧠 Concepts
 
 ## Top level concepts

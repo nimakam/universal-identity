@@ -24,6 +24,20 @@
 
 .page-link-footer {
   color: #ffffff;
+
+  a:visited {
+    color : #ffffff;
+  }
+}
+
+.image-link {
+  a:visited {
+    color: unset;
+  }
+
+  a:hover {
+    text-decoration: unset;
+  }
 }
 
 .post-content {
