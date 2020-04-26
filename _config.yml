@@ -1,6 +1,4 @@
 title: Universal Identity
 description: The universal digital identity protocol for everyday use cases
-logo: logo.png
-show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: minima
