@@ -1,15 +1,15 @@
-**An increasingly ubiquitous digital identity protocol for increasing number of everyday use cases**
+**The universal digital identity protocol for everyday use cases.**
 
-An **increasingly ubiquitous**, **digital identity** protocol, that empowers **consumers** to **use and manage their identity**, without involvement of a trusted **third party**, and that benefits other digital economy stakeholders such as businesses and governments.
+**We are building an increasingly ubiquitous digital identity protocol for growing numbers of everyday use cases.**
 
 ## 🧩 Problem
 
 ### 🆔🧩 Digital identity fragmentation problem
 
-- 🙍‍♀️🧩 Consumer experience broken - So many passwords, personal data management and privacy, friction and limitations across services/devices/ecosystems/use-cases- (evidenced by the exploding password management industry)
-- 🏢🙍‍♀️✅ Enterprise validation and verification challenges - Multi-trillion dollar IAM and Identity Verification industries, partly due to fragmented identity landscape
-- 📱🧪 Building new and innovative services is broken - Fragmented identity silos each controlled by large players, adds significant friction or prevents innovation completely
-- 🏢🧩 Business models are broken - Allows certain players to lock people in, such that innovative business models cannot emerge, inability for others to compose innovative business models, and capture their own value
+- 🙍‍♀️🧩 Broken consumer experiences - So many passwords, issues with personal data management and privacy, friction and limitations across services/devices/ecosystems/use-cases.
+- 🏢🙍‍♀️✅ Enterprise validation and verification challenges - Multi-trillion dollar IAM and Identity Verification industries as a result.
+- 📱🧪 Roadblocks for building new and innovative services - Fragmented identity silos each controlled by large players, adds significant friction or prevents innovation completely.
+- 🏢🧩 Broken business models- Allows certain players to lock people in, such that innovative business models cannot emerge, inability for others to compose innovative business models, and capture their own value.
 
 ## 🙌 Solution
 
@@ -18,8 +18,7 @@ An **increasingly ubiquitous**, **digital identity** protocol, that empowers **c
 - 🤳🆔 Self-sovereign - Controlled by ID owners
 - 📜🆔 Standards-based - Based on a ubiquitous  common logical structure
 - 🔗🆔 Federated - When necessary, supports different jurisdictional governance approaches
-- 🔢🆔 Versioned - Supports changes through time
-- 📶🆔 Increasing use case coverage - Evolves in time to cover increasing number of digital identity use cases
+- 🔢🆔 Versioned - Supports changes through time - Evolves in time to cover increasing number of digital identity use cases
 
 ## 🎯 Goals
 
