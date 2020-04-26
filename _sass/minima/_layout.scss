@@ -16,7 +16,8 @@
   font-weight: 300;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  // float: left;
+  float: unset;
 
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -26,6 +27,11 @@
   &:visited {
     color: $site-title-color;
   }
+}
+
+.site-logo {
+  width: 62px;
+  float: left;
 }
 
 .site-nav {
