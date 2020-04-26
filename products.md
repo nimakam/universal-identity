@@ -1,3 +1,8 @@
+---
+layout: page
+title: Products
+permalink: /products/
+---
 # 📦 Products
 
 ## 🌎🆔📜 Universal Identity Standard
