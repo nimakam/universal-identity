@@ -1,4 +1,4 @@
-# Concepts
+# 🧠 Concepts
 
 ## Top level concepts
 

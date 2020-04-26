@@ -3,3 +3,8 @@ description: The universal digital identity protocol for everyday use cases
 logo: logo.png
 google_analytics:
 theme: minima
+minima:
+  social_links:
+    twitter: universalidone
+    github: nimakam/universal-identity
+    medium: universal-identity

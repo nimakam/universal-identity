@@ -1,4 +1,4 @@
-# 📦 Products and solutions
+# 📦 Products
 
 ## 🌎🆔📜 Universal Identity Standard
 

@@ -1,4 +1,4 @@
-# Use cases <!-- omit in toc -->
+# 🤳 Use cases <!-- omit in toc -->
 
 - [👩 Consumer (market segment)](#%f0%9f%91%a9-consumer-market-segment)
   - [🙍‍♀️📇 Social connections](#%f0%9f%99%8d%e2%80%8d%e2%99%80%ef%b8%8f%f0%9f%93%87-social-connections)
