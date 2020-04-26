@@ -1,7 +1,7 @@
 # 🤳 Use cases <!-- omit in toc -->
 
 - [👩 Consumer (market segment)](#%f0%9f%91%a9-consumer-market-segment)
-  - [🙍‍♀️📇 Social connections](#%f0%9f%99%8d%e2%80%8d%e2%99%80%ef%b8%8f%f0%9f%93%87-social-connections)
+  - [🙍‍♀️📇 Contacts management](#%f0%9f%99%8d%e2%80%8d%e2%99%80%ef%b8%8f%f0%9f%93%87-contacts-management)
   - [☎️ Communication](#%e2%98%8e%ef%b8%8f-communication)
   - [👨‍👩‍👧‍👦 Group management](#%f0%9f%91%a8%e2%80%8d%f0%9f%91%a9%e2%80%8d%f0%9f%91%a7%e2%80%8d%f0%9f%91%a6-group-management)
   - [🛍🏢🔌 Business connections](#%f0%9f%9b%8d%f0%9f%8f%a2%f0%9f%94%8c-business-connections)
@@ -51,7 +51,7 @@
 
 ## 👩 Consumer (market segment)
 
-### 🙍‍♀️📇 Social connections
+### 🙍‍♀️📇 Contacts management
 
   [Use case details](use-cases/social-connections.md)
 

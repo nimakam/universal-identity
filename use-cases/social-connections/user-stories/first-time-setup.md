@@ -10,8 +10,8 @@ Consumer opens the app for first time and sets up her user identity
 
 References:
 
-- [Social connections entry](../../social-connections.md#%f0%9f%93%87%f0%9f%91%a5%e2%9e%95-contact-management)
-- [📇 Social connections] > [🦸‍♀️ Epics] > [📇👥➕ Consumer adds and manages contacts] > [🚶‍♀️ User stories] > [🏁⚙️ First time setup]
+- [Contacts entry](../../contacts-management.md#%f0%9f%93%87%f0%9f%91%a5%e2%9e%95-contacts-management)
+- [📇 Contacts management] > [🦸‍♀️ Epics] > [📇👥➕ Consumer adds and manages contacts] > [🚶‍♀️ User stories] > [🏁⚙️ First time setup]
 
 ## 🎬 Demo script
 
