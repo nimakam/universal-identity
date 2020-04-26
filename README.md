@@ -1,6 +1,6 @@
 **The universal digital identity protocol for everyday use cases.**
 
-**We are building an increasingly ubiquitous digital identity protocol for growing numbers of everyday use cases.**
+**We are a seed stage non-profit working on building an increasingly ubiquitous digital identity protocol for growing numbers of everyday use cases.**
 
 ## 🧩 Problem
 

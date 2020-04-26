@@ -14,6 +14,18 @@
   padding-left: 10px;
 }
 
+.site-nav .page-link {
+  color: #1961D9;
+}
+
+.site-footer {
+  background-color: #1961D9;
+}
+
+.page-link-footer {
+  color: #ffffff;
+}
+
 .post-content {
   h1 {
     @include relative-font-size(2.625);
