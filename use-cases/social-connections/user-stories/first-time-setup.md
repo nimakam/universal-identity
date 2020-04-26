@@ -1,4 +1,7 @@
 ---
+layout: page
+title: First time setup
+permalink: /first-time-setup/
 exclude: true
 ---
 # 🏁⚙️ First time setup
