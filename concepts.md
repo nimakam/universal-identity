@@ -14,30 +14,6 @@
 - ✍️ Guarantor - Guarantees and verifies an identity and insures against a set of loss/harm criteria.
   - ✅ Verifier - Verifies identities and/or claims about identities.
 
-## Common attributes
-
-### 🔒 Security level
-
-- 🔒0️⃣ None (~$0.01) [🔓]
-- 🔒🔽 Low (~$1) [🔒]
-  - 🔒⏺🔽 Medium low (~$100) [🔒🌗]
-- 🔒⏺ Medium (~$10K) [🔒🔒]
-  - 🔒⏺🔼 Medium high ($1M) [🔒🔒🌗]
-- 🔒🔼 High (~$100M) [🔒🔒🔒]
-  - 🔒⏫ Very high (~$10B) [🔒🔒🔒🌗]
-- 🔒🔼⏫ Extremely high (~$1T) [🔒🔒🔒🔒]
-
-### ✅ Trust/verification level
-
-- ✅0️⃣ None (~$0.01) [❌]
-- ✅🔽 Low (~$1) [✅]
-  - ✅⏺🔽 Medium low (~$100) [✅🌗]
-- ✅⏺ Medium (~$10K) [✅✅]
-  - ✅⏺🔼 Medium high (~$1M) [✅✅🌗]
-- ✅🔼 High (~$100M) [✅✅✅]
-  - 🔒⏫ Very high (~$10B) [✅✅✅🌗]
-- ✅🔼⏫ Extremely high (~$1T) [✅✅✅✅]
-
 ## Identity and connection
 
 ### 🆔🔵🔺🔸 Identity types
@@ -134,17 +110,6 @@
 - ☎️ Communications/notifications
 - 🎬Actions
 
-## 📋 Deliverable levels
-
-- 🙍‍♀️ Customer/segment (e.g. Consumer)
-  - 🛍 Market (e.g. Social connection)
-    - 🤳 Use case (e.g. Consumer establishing social connections)
-      - 📦 Product (e.g. password management Add-in) or Solution
-        - 🦸‍♀️ Epic [Scenario] (e.g. Consumer adding a new contact and setting privacy settings)
-          - 🎛 Feature (e.g. Contact management UX on iOS)
-            - 🚶‍♀️User story [Sub-scenario] (e.g. April adds new contact on iOS and Android)
-              - ☑️ Task [Sub-feature] (e.g. Create form with button to add contact on iOS and Android)
-
 ## Transitions
 
 ### Identity transition
@@ -218,7 +183,42 @@
     - Modification
     - Distribution
 
+## Common attributes
+
+### 🔒 Security level
+
+- 🔒0️⃣ None (~$0.01) [🔓]
+- 🔒🔽 Low (~$1) [🔒]
+  - 🔒⏺🔽 Medium low (~$100) [🔒🌗]
+- 🔒⏺ Medium (~$10K) [🔒🔒]
+  - 🔒⏺🔼 Medium high ($1M) [🔒🔒🌗]
+- 🔒🔼 High (~$100M) [🔒🔒🔒]
+  - 🔒⏫ Very high (~$10B) [🔒🔒🔒🌗]
+- 🔒🔼⏫ Extremely high (~$1T) [🔒🔒🔒🔒]
+
+### ✅ Trust/verification level
+
+- ✅0️⃣ None (~$0.01) [❌]
+- ✅🔽 Low (~$1) [✅]
+  - ✅⏺🔽 Medium low (~$100) [✅🌗]
+- ✅⏺ Medium (~$10K) [✅✅]
+  - ✅⏺🔼 Medium high (~$1M) [✅✅🌗]
+- ✅🔼 High (~$100M) [✅✅✅]
+  - 🔒⏫ Very high (~$10B) [✅✅✅🌗]
+- ✅🔼⏫ Extremely high (~$1T) [✅✅✅✅]
+
 ## Cryptography schemes
 
 - Encryption method - Eg. RSA 2048-bit, ECC(ECDSA) 256-bit
 - Hash function - Eg. Keccak256, SHA3, SHA-256
+
+## 📋 Deliverable levels
+
+- 🙍‍♀️ Customer/segment (e.g. Consumer)
+  - 🛍 Market (e.g. Social connection)
+    - 🤳 Use case (e.g. Consumer establishing social connections)
+      - 📦 Product (e.g. password management Add-in) or Solution
+        - 🦸‍♀️ Epic [Scenario] (e.g. Consumer adding a new contact and setting privacy settings)
+          - 🎛 Feature (e.g. Contact management UX on iOS)
+            - 🚶‍♀️User story [Sub-scenario] (e.g. April adds new contact on iOS and Android)
+              - ☑️ Task [Sub-feature] (e.g. Create form with button to add contact on iOS and Android)
