@@ -1,9 +1,3 @@
----
-layout: page
-title: Contact management
-permalink: /contact-management/
-exclude: true
----
 # 📇 Contacts management <!-- omit in toc -->
 
 - Adding and managing contacts from phone and social networks
