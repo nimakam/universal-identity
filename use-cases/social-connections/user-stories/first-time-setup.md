@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # 🏁⚙️ First time setup
 
 Consumer opens the app for first time and sets up her user identity
