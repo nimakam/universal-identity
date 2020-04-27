@@ -16,6 +16,12 @@
 
 .site-nav .page-link {
   color: #1961D9;
+  @include relative-font-size(1.0);
+  // font-size: 18px;
+}
+
+.trigger-footer .page-link {
+  padding-right: 8px; 
 }
 
 .site-footer {
@@ -36,10 +42,9 @@
 }
 
 .trigger-footer {
+  @include relative-font-size(1.2);
   color: #ffffff;
-  float: left;
-  @include relative-font-size(1.3);
-  padding-right: 8px;
+  float: left; 
 
   a:visited {
     color : #ffffff;
