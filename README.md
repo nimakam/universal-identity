@@ -1,3 +1,7 @@
+---
+layout: page
+title: Home
+---
 ## 🧩 Problem
 
 ### 🆔🧩 Digital identity fragmentation
