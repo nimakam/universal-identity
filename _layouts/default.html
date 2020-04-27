@@ -5,10 +5,13 @@
 
   <body>
 
+    <div>page: {{page}}</div>
     <div>page.title: {{page.title}}</div>
+    <div>page.url: {{page.url}}</div>
+    
     {%- include header.html -%}
 
-    {%- if page.title == "Home" -%}
+    {%- unless page.title -%}
 
     <div styles="background-image: url("/assets/images/cover-large.png");
     height: 405px;">
@@ -22,7 +25,7 @@
       </div>
     </div>
 
-    {%- endif -%}
+    {%- endunless -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
