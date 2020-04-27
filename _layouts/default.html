@@ -4,16 +4,12 @@
   {%- include head.html -%}
 
   <body>
-
-    <div>page: {{page}}</div>
-    <div>page.title: {{page.title}}</div>
-    <div>page.url: {{page.url}}</div>
     
     {%- include header.html -%}
 
     {%- unless page.title -%}
 
-    <div styles="background-image: url("/assets/images/cover-large.png");
+    <div styles="background-image: url(&quot;/assets/images/cover-large.png&quot;);
     height: 405px;">
       <div styles="font-size: 36px; color: white; text-align: center; padding-top: 96px;">
         The universal digital identity protocol for everyday use cases.
