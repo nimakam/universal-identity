@@ -16,8 +16,7 @@
 
 .site-nav .page-link {
   color: #1961D9;
-  @include relative-font-size(1.0);
-  // font-size: 18px;
+  @include relative-font-size(1.15);
 }
 
 .trigger-footer .page-link {
