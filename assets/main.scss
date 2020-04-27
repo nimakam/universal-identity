@@ -30,12 +30,20 @@
   height: 32px;
 }
 
+.site-social-footer {
+  height: 32px;
+}
+
 .trigger-footer {
   color: #ffffff;
   float: left;
   @include relative-font-size(1.5);
 
   a:visited {
+    color : #ffffff;
+  }
+
+  a {
     color : #ffffff;
   }
 }
