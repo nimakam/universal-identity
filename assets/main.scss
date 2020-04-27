@@ -21,11 +21,12 @@
 
 .site-nav .page-link {
   color: #1961D9;
-  @include relative-font-size(1.15);
+  @include relative-font-size(1.35);
 }
 
 .trigger-footer .page-link {
   padding-right: 8px; 
+  font-size: 18px;
 }
 
 .site-footer {

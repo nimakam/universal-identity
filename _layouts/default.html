@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    {%- if page.title == "Home" -%}
+
+    <div styles="background-image: url("/assets/images/cover-large.png");
+    height: 405px;">
+      <div styles="font-size: 36px; color: white; text-align: center; padding-top: 96px;">
+        The universal digital identity protocol for everyday use cases.
+      </div>
+      <div styles="text-align: -webkit-center;">
+        <div styles="font-size: 24px; color: white; padding-top: 50px; max-width: 900px;">
+          We are a seed stage non-profit working on building an increasingly ubiquitous digital identity protocol for growing numbers of everyday use cases.
+        </div>
+      </div>
+    </div>
+
+    {%- endif -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

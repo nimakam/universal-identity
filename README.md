@@ -4,12 +4,12 @@
 
 ## 🧩 Problem
 
-### 🆔🧩 The digital identity fragmentation problem
+### 🆔🧩 Digital identity fragmentation
 
 - 🙍‍♀️🧩 Broken consumer experiences - So many passwords, issues with personal data management and privacy, friction and limitations across services/devices/ecosystems/use-cases.
 - 🏢🙍‍♀️✅ Enterprise validation and verification challenges - Multi-trillion dollar IAM and Identity Verification industries as a result.
-- 📱🧪 Roadblocks for building new and innovative services - Fragmented identity silos each controlled by large players, adds significant friction or prevents innovation completely.
-- 🏢🧩 Broken business models- Allows certain players to lock people in, such that innovative business models cannot emerge, inability for others to compose innovative business models, and capture their own value.
+- 📱🧪 Innovation roadblocks - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
+- 🏢🧩 Broken business models- Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others to capture any of their own value.
 
 ## 🙌 Solution
 
@@ -17,8 +17,8 @@
 
 - 🤳🆔 Self-sovereign - Controlled by ID owners
 - 📜🆔 Standards-based - Based on a ubiquitous  common logical structure
-- 🔗🆔 Federated - When necessary, supports interoperability between different jurisdictional governance approaches
 - 🔢🆔 Versioned - Supports changes through time - Evolves in time to cover increasing number of digital identity use cases
+- 🔗🆔 Federated - When necessary, supports interoperability between different jurisdictional governance approaches
 
 ## 🎯 Goals
 
