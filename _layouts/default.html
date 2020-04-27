@@ -5,10 +5,12 @@
 
   <body>
     
+    <div>page.title: {{page.title}}</div>
+
     {%- include header.html -%}
 
     <!-- {%- unless page.title -%} -->
-    {%- if page.title == "Home" -%}
+    {%- if page.title == 'Home' -%}
 
     <div class="cover" style="background-image: url(&quot;/assets/images/cover-large.png&quot;);
     height: 405px;">
