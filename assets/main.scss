@@ -22,15 +22,31 @@
   background-color: #1961D9;
 }
 
+.site-action {
+  height: 36px;
+}
+
+.site-social-header {
+  height: 32px;
+}
+
 .trigger-footer {
   color: #ffffff;
+  float: left;
+  @include relative-font-size(1.5);
 
   a:visited {
     color : #ffffff;
   }
 }
 
+.wrapper {
+  max-width: unset;
+}
+
 .social-and-action {
+  float: right;
+
   a:visited {
     color: unset;
   }
