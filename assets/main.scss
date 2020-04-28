@@ -6,11 +6,13 @@
 .cover {
   background-image: url("/assets/images/cover-large.png");
   height: 405px; 
-  
-  @include media-query($on-palm) {
+}
+
+@include media-query($on-palm) {
+  .cover {
     background-image: url("/assets/images/cover-small.png");
-    height: 298px;    
-  }
+    height: 298px;   
+  } 
 }
 
 .cover-title {
