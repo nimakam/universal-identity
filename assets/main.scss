@@ -17,11 +17,13 @@
 
 .cover-title {
   font-size: 36px; 
-  color: white; 
+  color: #E0E0E0; 
   text-align: center; 
   padding-top: 80px;
+}
 
-  @include media-query($on-palm) {
+@include media-query($on-palm) {
+  .cover-title {
     font-size: 24px;
     padding-top: 30px;
     padding-left: 15px;
@@ -31,11 +33,13 @@
 
 .cover-description {
   font-size: 24px; 
-  color: white; 
-  padding-top: 45px; 
+  color: #E0E0E0; 
+  padding-top: 36px; 
   max-width: 900px;
+}
 
-  @include media-query($on-palm) {
+@include media-query($on-palm) {
+  .cover-description {
     font-size: 16px;
     padding-top: 22px;
     padding-left: 15px;
@@ -45,8 +49,11 @@
 
 .cover-action {
   padding-top: 30px;
-  @include media-query($on-palm) {
-    padding-top: 24px;
+}
+
+@include media-query($on-palm) {
+  .cover-action {
+    padding-top: 30px;
 
     img {
       max-width: 100%;
@@ -161,5 +168,17 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.55);
     }
+  }
+}
+
+@media screen and (max-width: 1060px) {
+  .site-action {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .site-social-header {
+    display: none;
   }
 }
