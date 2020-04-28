@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: default
 title: Home
---- -->
+---
 ## 🧩 Problem
 
 ### 🆔🧩 Digital identity fragmentation
