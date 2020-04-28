@@ -1,4 +1,5 @@
-## 🧩 Problem
+🧩 **The problem:**
+___
 
 ### 🆔🧩 Digital identity fragmentation
 
@@ -7,7 +8,8 @@
 - 📱🧪 Innovation roadblocks - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
 - 🏢🧩 Broken business models- Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others to capture any of their own value.
 
-## 🙌 Solution
+🙌 **The solution:**
+___
 
 ### 🌎🆔 A **Universal identity protocol** that is
 
