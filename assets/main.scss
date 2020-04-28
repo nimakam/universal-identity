@@ -3,6 +3,29 @@
 
 @import "minima";
 
+
+@include media-query($on-palm) {
+  .cover {
+    background-image: url("/images/assets/cover-small.png");
+    height: 298px;    
+  }
+
+  .cover-title {
+    font-size: 24px;
+    padding-top: 40px;
+
+  }
+
+  .cover-description {
+    font-size: 18px;
+    padding-top: 30px;
+  }
+
+  .cover-action {
+    padding-top: 15px;
+  }
+}
+
 .site-logo {
   width: 48px;
   float: left;
@@ -107,27 +130,5 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.55);
     }
-  }
-}
-
-@include media-query($on-palm) {
-  .cover {
-    background-image: url("/images/assets/cover-small.png");
-    height: 298px;    
-  }
-
-  .cover-title {
-    font-size: 24px;
-    padding-top: 40px;
-
-  }
-
-  .cover-description {
-    font-size: 18px;
-    padding-top: 30px;
-  }
-
-  .cover-action {
-    padding-top: 15px;
   }
 }
