@@ -3,30 +3,6 @@
 
 @import "minima";
 
-
-.cover {
-  background-image: url("/images/assets/cover-large.png");
-  height: 405px;    
-}
-
-.cover-title {
-  font-size: 36px; 
-  color: white; 
-  text-align: center; 
-  padding-top: 80px;
-}
-
-.cover-description {
-  font-size: 24px; 
-  color: white; 
-  padding-top: 45px; 
-  max-width: 900px;
-}
-
-.cover-action {
-  padding-top: 30px;
-}
-
 @include media-query($on-palm) {
   .cover {
     background-image: url("/assets/images/cover-small.png");
@@ -58,6 +34,29 @@
       height: 45px;
     }
   }
+}
+
+.cover {
+  background-image: url("/assets/images/cover-large.png");
+  height: 405px;    
+}
+
+.cover-title {
+  font-size: 36px; 
+  color: white; 
+  text-align: center; 
+  padding-top: 80px;
+}
+
+.cover-description {
+  font-size: 24px; 
+  color: white; 
+  padding-top: 45px; 
+  max-width: 900px;
+}
+
+.cover-action {
+  padding-top: 30px;
 }
 
 .site-logo {
