@@ -177,8 +177,15 @@
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 848px) {
   .site-social-header {
     display: none;
   }
+}
+
+.site-title-short { display: none; }
+
+@media screen and (max-width: 740px) {
+  .site-title-short { display: inline-block; }
+    .site-title { display: none; }
 }
