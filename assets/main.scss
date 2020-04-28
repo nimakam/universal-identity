@@ -3,42 +3,14 @@
 
 @import "minima";
 
-@include media-query($on-palm) {
-  .cover {
+.cover {
+  background-image: url("/assets/images/cover-large.png");
+  height: 405px; 
+  
+  @include media-query($on-palm) {
     background-image: url("/assets/images/cover-small.png");
     height: 298px;    
   }
-
-  .cover-title {
-    font-size: 24px;
-    padding-top: 30px;
-    padding-left: 15px;
-    padding-right: 15px;
-
-  }
-
-  .cover-description {
-    font-size: 16px;
-    padding-top: 22px;
-    padding-left: 15px;
-    padding-right: 15px;
-  }
-
-  .cover-action {
-    padding-top: 24px;
-
-    img {
-      max-width: 100%;
-      max-height: 100%;
-      width: auto;
-      height: 45px;
-    }
-  }
-}
-
-.cover {
-  background-image: url("/assets/images/cover-large.png");
-  height: 405px;    
 }
 
 .cover-title {
@@ -46,6 +18,13 @@
   color: white; 
   text-align: center; 
   padding-top: 80px;
+
+  @include media-query($on-palm) {
+    font-size: 24px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
 
 .cover-description {
@@ -53,10 +32,27 @@
   color: white; 
   padding-top: 45px; 
   max-width: 900px;
+
+  @include media-query($on-palm) {
+    font-size: 16px;
+    padding-top: 22px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
 
 .cover-action {
   padding-top: 30px;
+  @include media-query($on-palm) {
+    padding-top: 24px;
+
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      width: auto;
+      height: 45px;
+    }  
+  }
 }
 
 .site-logo {
