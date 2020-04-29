@@ -1,13 +1,13 @@
-**Problem**, **solution**, **goals**, **protocol traits**, and **trend assumptions**.
+Introducing the **solution** to a global **problem** some may not even realize exists.
 
-## 🤔 The problem: 🆔🧩 **Digital identity fragmentation**
+## 🤔 Problem: 🆔🧩 **Digital identity fragmentation**
 
 - 🙍‍♀️🧩 **Broken consumer experiences** - 🗝 Managing so many passwords - 🦸‍♀️ Personal data management and privacy issues - 🤦‍♀️ Friction and limitations across services, devices, ecosystems and use-cases.
 - 🏢🙍‍♀️✅ **Enterprise verification challenges** - Multi-billion dollar IAM and Identity Verification industries formed as a result.
 - 📱🧪 **Innovation roadblocks** - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
 - 🏢🧩 **Broken business models** - Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others to capture any of their own value.
 
-## 🙌 The solution: A 🌎🆔 **Universal identity protocol** that is
+## 🙌 Solution: A 🌎🆔 **Universal identity protocol** that is
 
 - 🤳 **Self-sovereign** - Controlled by ID owners
 - 📜 **Standards-based** - Based on a ubiquitous  common logical structure
