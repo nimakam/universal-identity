@@ -198,7 +198,21 @@
     }  
   }
 
+  .site-nav .page-link {
+    margin-left: unset;
+  }
+
+  .site-social-header {
+    display: unset;
+    padding-right: 10px;
+  }
+
   .site-nav {
+    padding-left: unset;
+  }
+
+  .header-titles {
+    padding-top: unset;
     padding-left: unset;
   }
 }
