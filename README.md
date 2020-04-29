@@ -1,4 +1,4 @@
-🧩 **The problem:**
+🤔 **The problem:**
 
 ### 🆔🧩 Digital identity fragmentation
 
@@ -31,7 +31,7 @@
 - **↔️ Interoperable** - Entities functioning on the same protocol can interoperate seamlessly.
 - **🔗 Federatable** - New instances of the protocol can be governed separately, while remaining interoperable with other protocol instances, as long as both follow the same standards.
 - **➡️ Transferrable** - Owner of a specific identity can easily transfer between different types of service providers.
-- **🔓 Permission minimized and censorship resistant by default** - Although specific protocol governance could effectively restrict some levels of access, the protocols should allow anyone to participate by default.
+- **🔓 Censorship resistant by default** - Although specific protocol governance could effectively restrict some levels of access, the protocols should allow anyone to participate by default.
 - **🦸‍♂️ Private identity supported by default** - Although specific protocol governance could effectively restrict some levels of access, the protocols should allow the use of private (anonymous or pseudonymous) identities by default.
 
 ## 🕰 Long term trend assumptions
