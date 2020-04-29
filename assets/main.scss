@@ -197,6 +197,10 @@
       height: 45px;
     }  
   }
+
+  .site-nav {
+    padding-left: unset;
+  }
 }
 
 @media screen and (max-width: 400px) {
@@ -208,16 +212,14 @@
     padding-top: 16px;
   }
 
-  .cover-description {
+  .cover-action {
     padding-top: 20px;
   }
 
   .site-social-footer {
-    img {
-      max-width: 100%;
-      max-height: 100%;
-      width: auto;
-      height: 20px;
-    }  
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: 20px;
   }
 }
