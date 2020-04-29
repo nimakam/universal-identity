@@ -2,20 +2,20 @@
 
 ### 🆔🧩 Digital identity fragmentation
 
-- 🙍‍♀️🧩 Broken consumer experiences - 🗝 Managing so many passwords - 🦸‍♀️ Personal data management and privacy issues - 🤦‍♀️ Friction and limitations across services, devices, ecosystems and use-cases.
-- 🏢🙍‍♀️✅ Enterprise verification challenges - Multi-billion dollar IAM and Identity Verification industries formed as a result.
-- 📱🧪 Innovation roadblocks - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
-- 🏢🧩 Broken business models- Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others to capture any of their own value.
+- 🙍‍♀️🧩 **Broken consumer experiences** - 🗝 Managing so many passwords - 🦸‍♀️ Personal data management and privacy issues - 🤦‍♀️ Friction and limitations across services, devices, ecosystems and use-cases.
+- 🏢🙍‍♀️✅ **Enterprise verification challenges** - Multi-billion dollar IAM and Identity Verification industries formed as a result.
+- 📱🧪 **Innovation roadblocks** - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
+- 🏢🧩 **Broken business models** - Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others to capture any of their own value.
 
 🙌 **The solution:**
 
 ### 🌎🆔 A **Universal identity protocol** that is
 
-- 🤳 Self-sovereign - Controlled by ID owners
-- 📜 Standards-based - Based on a ubiquitous  common logical structure
-- 🔓 Permissionless - Allows everyone and anyone to innovate on top of it
-- 🔢 Versioned - Supports evolvement through time, to cover increasing number of digital identity use cases
-- 🔗 Federated - When necessary, supports interoperability between different jurisdictional governance approaches
+- 🤳 **Self-sovereign** - Controlled by ID owners
+- 📜 **Standards-based** - Based on a ubiquitous  common logical structure
+- 🔓 **Permissionless** - Allows everyone and anyone to innovate on top of it
+- 🔢 **Versioned** - Supports evolvement through time, to cover increasing number of digital identity use cases
+- 🔗 **Federated** - When necessary, supports interoperability between different jurisdictional governance approaches
 
 ## 🎯 Goals
 
