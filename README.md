@@ -2,8 +2,8 @@
 
 ### 🆔🧩 Digital identity fragmentation
 
-- 🙍‍♀️🧩 Broken consumer experiences - So many passwords, issues with personal data management and privacy, friction and limitations across services/devices/ecosystems/use-cases.
-- 🏢🙍‍♀️✅ Enterprise validation and verification challenges - Multi-trillion dollar IAM and Identity Verification industries as a result.
+- 🙍‍♀️🧩 Broken consumer experiences - So many passwords, issues with personal data management and privacy, friction and limitations across services, devices, ecosystems and use-cases.
+- 🏢🙍‍♀️✅ Enterprise verification challenges - Multi-billion dollar IAM and Identity Verification industries formed as a result.
 - 📱🧪 Innovation roadblocks - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
 - 🏢🧩 Broken business models- Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others to capture any of their own value.
 
@@ -41,6 +41,6 @@
     - **🗝 Passwords and accounts**
     - **🦸‍♀️ Personal data and privacy**
     - **🕸 Digital graph**
-  - **🏢✅ Enterprise validation and verification** - The large cost of economic activity related to Identity Access Management (IAM) and Identity Verification, can be significantly improved and disrupted.
+  - **🏢✅ Enterprise identity verification** - The large cost of economic activity related to Identity Access Management (IAM) and Identity Verification, can be significantly improved and disrupted.
   - **👩‍💻🏃‍♀️Software development limitations** - Current fragmented identity ecosystem, and lack of logical and programmatic uniformity drastically increases implementation complexity. With significantly improvements, development can scale and reduces total costs by orders of magnitude.
   - **👨‍💼🏃‍♂️ Business model limitations** - Current fragmented identity landscape, allows certain players to lock people in. Fixing this will allow disruptive business models to emerge, unlocking enormous economic value.
