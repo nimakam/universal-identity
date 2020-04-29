@@ -29,7 +29,7 @@ permalink: /roadmap
 - 🙍‍♀️📱💻⌚️ Device connections
 - 🙍‍♀️💰 Money and valuables
   - 🙍‍♀️💸 Decentralized Finance (DeFi)
-- --------- 1️⃣ V 0.1 - Basic consumer use cases ----------
+- --------- 1️⃣ V0.1 - Basic consumer use cases ---------
 - 🙍‍♀️📣 Reputation management
 - 🙍‍♀️👨‍👩‍👧‍👦 Group management
 - 🏢📣 Reputation management
@@ -37,10 +37,10 @@ permalink: /roadmap
 - 🙍‍♀️🛎 Customer support
 - 🙍‍♀️🛍📄 Business connections
   - 🗝🔌 Login/account management (legacy)
-- --------- 2️⃣ V 0.2 - Basic business use cases ----------
+- --------- 2️⃣ V0.2 - Basic business use cases ---------
 - 🏛🆔 Identification and certificate issuance
 - 🏛🤍 Non-profit - financial transparency
-- --------- 3️⃣ V 0.3 - Basic institutional use cases ----------
+- --------- 3️⃣ V0.3 - Basic institutional use cases ---------
 
 ## 🤳 Use cases
 
@@ -51,7 +51,7 @@ permalink: /roadmap
 - 📲💻⌚️ Device initiation and login/connection (like TVs, kiosks, etc.), accessing/invoking, managing access control, maintenance
 - 🙍‍♀️💰 Finance, payments, exchange and custody
   - 🙍‍♀️💸 DeFi - Hold money, payment, loans, lend money, borrow money
-- --------- 1️⃣ V 0.1 - Basic consumer use cases ----------
+- --------- 1️⃣ V0.1 - Basic consumer use cases ---------
 - 🙍‍♀️⏏️ Version upgrade manual intervention process
 - 🙍‍♀️📣 Establishing public profiles, Posts with different contexts
 - 🙍‍♀️👨‍👩‍👧‍👦 Adding, joining and managing groups like: Family, friends, interest groups, neighbors and neighborhoods, sports and other recreational leagues/teams etc.
@@ -60,7 +60,7 @@ permalink: /roadmap
 - 🏢👩 Customer data source, customer reach out, customer agreements
   - 🏢👩🗝🔌 Connection service and SDKs
 - 🙍‍♀️🛍📄 Subscribing/connecting with businesses, sharing/revoking personal information
-- --------- 2️⃣ V 0.2 - Basic business use cases ----------
+- --------- 2️⃣ V0.2 - Basic business use cases ---------
 - 🏛🆔 Issuing/renewing/revoking identity documents, birth/death/marriage certification, business certificates
 - 🏛🤍 Recording and public sharing of budget planning and transfer from donor, to nonprofit, to work on the ground.
-- --------- 3️⃣ V 0.3 - Basic institutional use cases ----------
+- --------- 3️⃣ V0.3 - Basic institutional use cases ---------

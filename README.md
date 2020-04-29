@@ -1,4 +1,4 @@
-**Problem**, **solution**, **goals**, **traits**, and **trends assumptions**.
+**Problem**, **solution**, **goals**, **protocol traits**, and **trend assumptions**.
 
 ## 🤔 The problem: 🆔🧩 **Digital identity fragmentation**
 
@@ -24,7 +24,7 @@
 - **🌏 Ubiquitous adoption** - An identity protocol cannot be easy-to-use if it is not widely adopted by a network of people and organizations, and it is not widely adopted if doesn't grow past a tipping point, where mainstream digital ecosystem players are incentivized to support it.
 - **🧠 Intuitiveness** - The standard concepts and protocol operation are in harmony with human cognitive models of identity, privacy and security.
 
-## ☑️ Traits
+## ☑️ Protocol traits
 
 - **↔️ Interoperable** - Entities functioning on the same protocol can interoperate seamlessly.
 - **🔗 Federatable** - New instances of the protocol can be governed separately, while remaining interoperable with other protocol instances, as long as both follow the same standards.
