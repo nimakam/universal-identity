@@ -13,7 +13,8 @@
 
 - 🤳🆔 Self-sovereign - Controlled by ID owners
 - 📜🆔 Standards-based - Based on a ubiquitous  common logical structure
-- 🔢🆔 Versioned - Supports changes through time - Evolves in time to cover increasing number of digital identity use cases
+- 🔓 Permissionless - Allows everyone and anyone to innovate on top of it
+- 🔢🆔 Versioned - Supports evolvement through time, to cover increasing number of digital identity use cases
 - 🔗🆔 Federated - When necessary, supports interoperability between different jurisdictional governance approaches
 
 ## 🎯 Goals
@@ -23,9 +24,9 @@
 - **🕸 Decentralization** - Preventing of capture and rent-seeking behavior, the same behaviors that have fragmented Web 1.0 and Web 2.0 digital identity.
 - **🦸‍♀️ Personal data privacy** - Identity owners are in full control of personal data and decide the extent to which it is shared. The choices are enforceable through social and national governance.
 - **🌏 Ubiquitous adoption** - An identity protocol cannot be easy-to-use if it is not widely adopted by a network of people and organizations, and it is not widely adopted if doesn't grow past a tipping point, where mainstream digital ecosystem players are incentivized to support it.
-- **🧠 Intuitiveness** - The standard concepts and protocol operation are in harmony with human cognitive processes when considering topics of identity, security and privacy.
+- **🧠 Intuitiveness** - The standard concepts and protocol operation are in harmony with human cognitive models of identity, privacy and security.
 
-## ☑️ Desirable traits
+## ☑️ Traits
 
 - **↔️ Interoperable** - Entities functioning on the same protocol can interoperate seamlessly.
 - **🔗 Federatable** - New instances of the protocol can be governed separately, while remaining interoperable with other protocol instances, as long as both follow the same standards.
