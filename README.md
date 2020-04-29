@@ -2,7 +2,7 @@
 
 ### 🆔🧩 Digital identity fragmentation
 
-- 🙍‍♀️🧩 Broken consumer experiences - So many passwords, issues with personal data management and privacy, friction and limitations across services, devices, ecosystems and use-cases.
+- 🙍‍♀️🧩 Broken consumer experiences - 🗝 Managing so many passwords - 🦸‍♀️ Personal data management and privacy issues - 🤦‍♀️ Friction and limitations across services, devices, ecosystems and use-cases.
 - 🏢🙍‍♀️✅ Enterprise verification challenges - Multi-billion dollar IAM and Identity Verification industries formed as a result.
 - 📱🧪 Innovation roadblocks - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
 - 🏢🧩 Broken business models- Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others to capture any of their own value.
@@ -11,11 +11,11 @@
 
 ### 🌎🆔 A **Universal identity protocol** that is
 
-- 🤳🆔 Self-sovereign - Controlled by ID owners
-- 📜🆔 Standards-based - Based on a ubiquitous  common logical structure
+- 🤳 Self-sovereign - Controlled by ID owners
+- 📜 Standards-based - Based on a ubiquitous  common logical structure
 - 🔓 Permissionless - Allows everyone and anyone to innovate on top of it
-- 🔢🆔 Versioned - Supports evolvement through time, to cover increasing number of digital identity use cases
-- 🔗🆔 Federated - When necessary, supports interoperability between different jurisdictional governance approaches
+- 🔢 Versioned - Supports evolvement through time, to cover increasing number of digital identity use cases
+- 🔗 Federated - When necessary, supports interoperability between different jurisdictional governance approaches
 
 ## 🎯 Goals
 
@@ -38,9 +38,9 @@
 
 - **🤳🆔 Self-sovereign identity** - Introduction of truly self-sovereign digital identity will disrupt all digital economic activity based on the following aspects:
   - **🙍‍♀️ Consumer experience** - The cost of managing passwords, personal data and privacy, as well as the friction consumer face across services, devices, ecosystems and use-cases.
-    - **🗝 Passwords and accounts**
-    - **🦸‍♀️ Personal data and privacy**
-    - **🕸 Digital graph**
+    - **🗝 Passwords and accounts** - Passwords are no longer needed, and accounts are uniformly managed in the same place
+    - **🦸‍♀️ Personal data and privacy** - We are in control of our own personal data and privacy. 
+    - **🕸 Digital graph** - Having access to a universal graph of digital identities improves usability of digital artifact by orders of magnitude.
   - **🏢✅ Enterprise identity verification** - The large cost of economic activity related to Identity Access Management (IAM) and Identity Verification, can be significantly improved and disrupted.
   - **👩‍💻🏃‍♀️Software development limitations** - Current fragmented identity ecosystem, and lack of logical and programmatic uniformity drastically increases implementation complexity. With significantly improvements, development can scale and reduces total costs by orders of magnitude.
   - **👨‍💼🏃‍♂️ Business model limitations** - Current fragmented identity landscape, allows certain players to lock people in. Fixing this will allow disruptive business models to emerge, unlocking enormous economic value.
