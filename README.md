@@ -1,18 +1,13 @@
----
-title:
----
-## 🤔 The problem:
+**Problem**, **solution**, **goals**, **traits**, and **trends assumptions**.
 
-### 🆔🧩 Digital identity fragmentation
+## 🤔 The problem: 🆔🧩 **Digital identity fragmentation**
 
 - 🙍‍♀️🧩 **Broken consumer experiences** - 🗝 Managing so many passwords - 🦸‍♀️ Personal data management and privacy issues - 🤦‍♀️ Friction and limitations across services, devices, ecosystems and use-cases.
 - 🏢🙍‍♀️✅ **Enterprise verification challenges** - Multi-billion dollar IAM and Identity Verification industries formed as a result.
 - 📱🧪 **Innovation roadblocks** - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
 - 🏢🧩 **Broken business models** - Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others to capture any of their own value.
 
-## 🙌 The solution:
-
-### 🌎🆔 A **Universal identity protocol** that is
+## 🙌 The solution: A 🌎🆔 **Universal identity protocol** that is
 
 - 🤳 **Self-sovereign** - Controlled by ID owners
 - 📜 **Standards-based** - Based on a ubiquitous  common logical structure
@@ -37,7 +32,7 @@ title:
 - **🔓 Censorship resistant by default** - Although specific protocol governance could effectively restrict some levels of access, the protocols should allow anyone to participate by default.
 - **🦸‍♂️ Private identity supported by default** - Although specific protocol governance could effectively restrict some levels of access, the protocols should allow the use of private (anonymous or pseudonymous) identities by default.
 
-## 🕰 Long term trend assumptions
+## 🕰 Trend assumptions
 
 - **🤳🆔 Self-sovereign identity** - Introduction of truly self-sovereign digital identity will disrupt all digital economic activity based on the following aspects:
   - **🙍‍♀️ Consumer experience** - The cost of managing passwords, personal data and privacy, as well as the friction consumer face across services, devices, ecosystems and use-cases.
