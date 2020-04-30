@@ -3,7 +3,7 @@ layout: page
 title: Roadmap
 permalink: /roadmap
 ---
-# 🗺 Roadmap
+# 🗺 Tentative roadmaps
 
 ## 🙍‍♀️ Customer segment
 
