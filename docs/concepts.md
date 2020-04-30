@@ -82,7 +82,7 @@ permalink: /concepts
   - 🔒🔒🔒🌗 Very high (~$10B)
 - 🔒🔒🔒🔒 Extremely high (~$1T)
 
-## Cryptography schemes
+## 🔐 Cryptography schemes
 
 - 🔏 Encryption method - Eg. RSA 2048-bit, ECC(ECDSA) 256-bit
 - #️⃣ Hash function - Eg. Keccak256, SHA3, SHA-256
