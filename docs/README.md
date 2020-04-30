@@ -1,6 +1,6 @@
 Introducing the **solution** to a large-scale **problem** some may not even realize exists.
 
-## Problem: 🆔🧩 **Digital identity fragmentation**
+## 🤔 Problem: **Digital identity fragmentation**
 
 - 🙍‍♀️🧩 **Broken consumer experiences**
   - *️⃣ Managing so many passwords.
@@ -10,7 +10,7 @@ Introducing the **solution** to a large-scale **problem** some may not even real
 - 📱🧪 **Innovation roadblocks** - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
 - 🏢🧩 **Broken business models** - Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others from capture any of their own value.
 
-## Solution: A 🌎🆔 **Universal identity protocol** that is
+## 🙌 Solution: **Universal identity protocol**
 
 - 🤳 **Self-sovereign** - Controlled by the ID owners.
 - 📜 **Standards-based** - Based on a ubiquitous  common logical structure.
