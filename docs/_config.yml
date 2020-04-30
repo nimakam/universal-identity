@@ -1,0 +1,9 @@
+title: Universal Identity
+description: The universal digital identity protocol for everyday use cases
+google_analytics:
+theme: minima
+header_pages:
+  - use-cases.md
+  - concepts.md
+  - products.md
+  - roadmap.md
