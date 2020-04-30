@@ -84,8 +84,8 @@ permalink: /concepts
 
 ## Cryptography schemes
 
-- Encryption method - Eg. RSA 2048-bit, ECC(ECDSA) 256-bit
-- Hash function - Eg. Keccak256, SHA3, SHA-256
+- 🔏 Encryption method - Eg. RSA 2048-bit, ECC(ECDSA) 256-bit
+- #️⃣ Hash function - Eg. Keccak256, SHA3, SHA-256
 
 ## 📋 Work scopes
 

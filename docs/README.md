@@ -1,10 +1,10 @@
-Introducing the **solution** to a global **problem** some may not even realize exists.
+Introducing the **solution** to a large-scale **problem** some may not even realize exists.
 
 ## Problem: 🆔🧩 **Digital identity fragmentation**
 
 - 🙍‍♀️🧩 **Broken consumer experiences**
-  - 🗝 Managing so many passwords
-  - 🦸‍♀️ Personal data management and privacy issues
+  - *️⃣ Managing so many passwords.
+  - 🦸‍♀️ Privacy issues and personal data management.
   - 🤦‍♀️ Friction and limitations across services, devices, ecosystems and use-cases.
 - 🏢🙍‍♀️✅ **Customer verification challenges** - Multi-billion dollar Identity Access Management (IAM) and Identity Verification industries address the need in an inefficient way.
 - 📱🧪 **Innovation roadblocks** - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
@@ -12,11 +12,11 @@ Introducing the **solution** to a global **problem** some may not even realize e
 
 ## Solution: A 🌎🆔 **Universal identity protocol** that is
 
-- 🤳 **Self-sovereign** - Controlled by ID owners
-- 📜 **Standards-based** - Based on a ubiquitous  common logical structure
-- 🔓 **Permissionless** - Allows everyone and anyone to innovate on top of it
-- 🔢 **Versioned** - Supports evolution through time, to cover increasing number of digital identity use cases
-- 🔗 **Federated** - When necessary, supports interoperability between different jurisdictional governance approaches
+- 🤳 **Self-sovereign** - Controlled by the ID owners.
+- 📜 **Standards-based** - Based on a ubiquitous  common logical structure.
+- 🔓 **Permissionless** - Allows everyone and anyone to innovate on top of it.
+- 🔢 **Versioned** - Supports evolution through time, to cover increasing number of digital identity use cases.
+- 🔗 **Federated** - When necessary, supports interoperability between different jurisdictional governance approaches.
 
 ## 🎯 Goals
 
@@ -33,4 +33,4 @@ Introducing the **solution** to a global **problem** some may not even realize e
 - **🔗 Federatable** - New instances of the protocol can be governed separately, while remaining interoperable with other instances, as long as both follow the same standards.
 - **➡️ Transferrable** - Owner of a specific identity can easily transfer between different types of service providers.
 - **🔓 Censorship resistant by default** - The protocols should allow anyone to participate by default.
-- **🦸‍♂️ Private identity supported by default** - The protocols should allow the use of private (anonymous or pseudonymous) identities by default.
+- **🦸‍♂️ Privacy-enabled by default** - The protocols should allow the use of private (anonymous or pseudonymous) identities by default.
