@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    
+    <div style="display:none;">page.title: {{page.title}}</div>
+
+    {%- include header.html -%}
+
+    {%- unless page.title -%}
+
+    <div class="cover">
+      <div class="cover-title">
+        The universal digital identity protocol for everyday use cases.
+      </div>
+      <div style="text-align: -webkit-center;">
+        <div class="cover-description">
+          We are a seed stage non-profit working on a decentralized digital identity protocol suitable for growing numbers of real world use cases.
+        </div>
+      </div>
+      <div class="cover-action" style="text-align: -webkit-center;">
+        <a href="https://twitter.com/universalidone">
+          <img src="assets/images/action-button-white.png" alt="Message us on Twitter">
+        </a>
+      </div>
+    </div>
+
+    {%- endunless -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
