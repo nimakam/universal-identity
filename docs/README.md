@@ -1,10 +1,12 @@
+> Note: We are a seed stage non-profit foundation in the process of nailing down our strategy and roadmap. Your feedback and advice is welcome. Please message us on [twitter](https://twitter.com/universalidone) and connect.
+
 Introducing **Universal identity protocol** as the **solution** to a large-scale **problem** some may not even realize exists.
 
 ## Problem: **Digital identity fragmentation**
 
 - 🙍‍♀️ **Broken consumer experiences**
   - *️⃣ Managing so many passwords.
-  - 🦸‍♀️ Privacy issues and personal data management.
+  -  Privacy issues and personal data management.
   - 🤦‍♀️ Friction and limitations across services, devices, ecosystems and use-cases.
 - ✅ **Customer verification challenges** - Multi-billion dollar Identity Access Management (IAM) and Identity Verification industries address the need in an inefficient way.
 - 🧪 **Innovation roadblocks** - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
