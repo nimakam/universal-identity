@@ -73,8 +73,8 @@ permalink: /concepts
 
 ### 🔒 Security level
 
-- 🔓 None (~$0.01) [🔓]
-- 🔒 Low (~$1) [🔒]
+- 🔓 None (~$0.01)
+- 🔒 Low (~$1)
   - 🔒🌗 Medium low (~$100)
 - 🔒🔒 Medium (~$10K)
   - 🔒🔒🌗 Medium high (~$1M)
