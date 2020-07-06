@@ -1,4 +1,4 @@
-> Note: We are a seed stage non-profit foundation in the process of nailing down our strategy and roadmap. Your feedback and advice is welcome. Please message us on [twitter](https://twitter.com/universalidone) and connect.
+> Note: We are a seed stage non-profit organization in the process of nailing down our strategy and roadmap. Your feedback and advice is welcome. Please message us on [twitter](https://twitter.com/universalidone) and connect.
 
 ## Problem: **Digital identity fragmentation**
 
