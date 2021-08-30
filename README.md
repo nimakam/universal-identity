@@ -35,3 +35,5 @@ We plan to work for and with the following audiences through our web interfaces.
 ![External audiences and interfaces][external-audience-interfaces-public]
 
 [external-audience-interfaces-public]: images/external-audience-interfaces-public.png
+
+Go here if you if you are an internal contributor to the Universal Identity organization: [universal-identity-internal](https://github.com/nimakam/universal-identity-internal).
